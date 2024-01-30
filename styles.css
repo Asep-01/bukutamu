@@ -1,0 +1,9 @@
+.contoh {
+    display: grid;
+    justify-content: center;
+
+}
+.col-121 {
+    width: 20rem;
+}
+
